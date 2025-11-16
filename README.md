@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 50px;"> ✨ Proyecto Ficticio de Vanarsdel 💰</h1>
+  <h1 style="font-size: 50px;"> ✨ Proyecto Vanarsdel 💰</h1>
 </div>
 
 🎯 Objetivo del Proyecto
